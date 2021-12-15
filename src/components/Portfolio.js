@@ -27,6 +27,7 @@ export default function Portfolio() {
   return (
     <div>
       <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
+      <Footer currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
     </div>
   );
