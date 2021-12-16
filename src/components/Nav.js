@@ -58,7 +58,7 @@ function Nav({ currentPage, handlePageChange }) {
           </a>
         </p>
         <p className="nav-item nav-link">
-          <a href="./assets/images/NEW Resume.pdf">Resume</a>
+          <a target="blank" href="../assets/images/NEW-Resume.pdf">Resume(PDF)</a>
         </p>
       </div>
     </div>
