@@ -1,9 +1,18 @@
 import React from 'react';
 
+const styles = {
+  card: {
+    display: 'flex',
+    justifyContent: 'center',
+    margin: '25px 0 25px 0',
+    fontSize: '20px'
+  },
+};
+
 function Nav({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs">
-      <li className="nav-item">
+    <div style={styles.card}>
+      <p className="nav-item">
         <a
           href="#home"
           onClick={() => handlePageChange('Home')}
@@ -11,8 +20,8 @@ function Nav({ currentPage, handlePageChange }) {
         >
           Home
         </a>
-      </li>
-      <li className="nav-item">
+      </p>
+      <p className="nav-item">
         <a
           href="#about"
           onClick={() => handlePageChange('About')}
@@ -20,8 +29,8 @@ function Nav({ currentPage, handlePageChange }) {
         >
           About
         </a>
-      </li>
-      <li className="nav-item">
+      </p>
+      <p className="nav-item">
         <a
           href="#work"
           onClick={() => handlePageChange('Work')}
@@ -29,8 +38,8 @@ function Nav({ currentPage, handlePageChange }) {
         >
           Work
         </a>
-      </li>
-      <li className="nav-item">
+      </p>
+      <p className="nav-item">
         <a
           href="#contact"
           onClick={() => handlePageChange('Contact')}
@@ -38,8 +47,8 @@ function Nav({ currentPage, handlePageChange }) {
         >
           Contact
         </a>
-      </li>
-    </ul>
+      </p>
+    </div>
   );
 }
 

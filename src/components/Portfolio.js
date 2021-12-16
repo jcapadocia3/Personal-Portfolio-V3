@@ -27,20 +27,8 @@ export default function Portfolio() {
   return (
     <div>
       <Nav currentPage={currentPage} handlePageChange={handlePageChange} />
-      <Footer currentPage={currentPage} handlePageChange={handlePageChange} />
       {renderPage()}
+      <Footer currentPage={currentPage} handlePageChange={handlePageChange} />
     </div>
   );
 }
-
-// import React from 'react';
-
-// export default function Portfolio() {
-//     console.log('Your site works!');
-  
-//     return (
-//       <div>
-//           <h1>Hello world!</h1>
-//       </div>
-//     );
-//   }
