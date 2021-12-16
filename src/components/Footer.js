@@ -22,7 +22,7 @@ export default function Footer() {
         <p style={styles.par}> ||</p>
         <p style={styles.par}><a id="third-2" href="https://linkedin.com/in/james-capadocia-156367217">LinkedIn</a></p>
         <p style={styles.par}> ||</p>
-        <p><a id="third-2" href="https://github.com/jcapadocia3">Github</a></p>
+        <p><a id="third-2" href="./assets/images/NEW Resume.pdf">Github</a></p>
     </div>
   );
 }
