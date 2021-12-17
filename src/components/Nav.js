@@ -1,4 +1,5 @@
 import React from "react";
+import './Portfolio.css';
 
 const styles = {
   card: {
@@ -8,6 +9,7 @@ const styles = {
     fontSize: "20px",
   },
   myName: {
+    color: 'rgb(43, 43, 43)',
     fontSize: "50px",
     textAlign: "center",
     marginTop: "25px",
@@ -16,7 +18,7 @@ const styles = {
 
 function Nav({ currentPage, handlePageChange }) {
   return (
-    <div>
+    <div class="navBar">
       <p style={styles.myName}>James Capadocia</p>
       <div style={styles.card}>
         <p className="nav-item">

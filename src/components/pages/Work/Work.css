@@ -10,32 +10,32 @@ h1 {
 
 .work1 {
     width: 35rem;
-    border: 2px solid black;
+    border: 2px solid rgb(43, 43, 43);
 }
 
 .work2 {
     width: 35rem;
-    border: 2px solid black;
+    border: 2px solid rgb(43, 43, 43);
 }
 
 .work3 {
     width: 35rem;
-    border: 2px solid black;
+    border: 2px solid rgb(43, 43, 43);
 }
 
 .work4 {
     width: 35rem;
-    border: 2px solid black;
+    border: 2px solid rgb(43, 43, 43);
 }
 
 .work5 {
     width: 35rem;
-    border: 2px solid black;
+    border: 2px solid rgb(43, 43, 43);
 }
 
 .work6 {
     width: 35rem;
-    border: 2px solid black;
+    border: 2px solid rgb(43, 43, 43);
 }
 
 .projTitle {
@@ -44,10 +44,10 @@ h1 {
 }
 
 .workItem {
-    border: 2px solid black;
+    border: 2px solid rgb(43, 43, 43);
 }
 
 .workItem1 {
-    border: 2px solid black;
+    border: 2px solid rgb(43, 43, 43);
     margin-top: 50px;
 }
