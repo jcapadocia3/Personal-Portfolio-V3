@@ -1,5 +1,5 @@
 import React from "react";
-import './Portfolio.css';
+import "./Portfolio.css";
 
 const styles = {
   card: {
@@ -9,7 +9,7 @@ const styles = {
     fontSize: "20px",
   },
   myName: {
-    color: 'rgb(43, 43, 43)',
+    color: "rgb(43, 43, 43)",
     fontSize: "50px",
     textAlign: "center",
     marginTop: "25px",
@@ -41,9 +41,11 @@ function Nav({ currentPage, handlePageChange }) {
         </p>
         <p className="nav-item">
           <a
-            href="#work"
+            href="#portfolio"
             onClick={() => handlePageChange("Work")}
-            className={currentPage === "Work" ? "nav-link active" : "nav-link"}
+            className={
+              currentPage === "Portfolio" ? "nav-link active" : "nav-link"
+            }
           >
             Portfolio
           </a>
@@ -60,7 +62,9 @@ function Nav({ currentPage, handlePageChange }) {
           </a>
         </p>
         <p className="nav-item nav-link">
-          <a target="blank" href="../assets/images/NEW-Resume.pdf">Resume(PDF)</a>
+          <a target="blank" href="./NEW-Resume.pdf">
+            Resume
+          </a>
         </p>
       </div>
     </div>

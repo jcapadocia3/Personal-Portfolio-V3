@@ -1,14 +1,3 @@
-// import React from 'react';
-// // import './style.css';
-
-// export default function Contact() {
-//   return (
-//     <div>
-//       <h1>Contact Page</h1>
-//     </div>
-//   );
-// }
-
 import React, { useState } from "react";
 import "./Contact.css";
 
@@ -48,30 +37,30 @@ function Form() {
       <h1>Contact Page</h1>
       <form className="form">
         <div className="stack">
-        <input
-          value={fullName}
-          name="fullName"
-          onChange={handleInputChange}
-          type="text"
-          placeholder="Full Name"
-        />
-        <input
-          value={email}
-          name="email"
-          onChange={handleInputChange}
-          type="email"
-          placeholder="Email"
-        />
-        <textarea
-          value={message}
-          name="message"
-          onChange={handleInputChange}
-          type="text"
-          placeholder="Message to me!"
-        />
-        <button type="button" onClick={handleFormSubmit}>
-          Submit
-        </button>
+          <input
+            value={fullName}
+            name="fullName"
+            onChange={handleInputChange}
+            type="text"
+            placeholder="Full Name"
+          />
+          <input
+            value={email}
+            name="email"
+            onChange={handleInputChange}
+            type="email"
+            placeholder="Email"
+          />
+          <textarea
+            value={message}
+            name="message"
+            onChange={handleInputChange}
+            type="text"
+            placeholder="Message to me!"
+          />
+          <button type="button" onClick={handleFormSubmit}>
+            Submit
+          </button>
         </div>
       </form>
     </div>
