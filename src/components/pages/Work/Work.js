@@ -46,7 +46,7 @@ export default function Work() {
           </div>
 
           <div class="workItem1">
-          <p class="workTitle"><span class="projTitle">Project Title: Work Day Scheduler</span>></p>
+          <p class="workTitle"><span class="projTitle">Project Title: Work Day Scheduler</span></p>
           <img class="work3" src= {Work3} />
             <p>
               GitHub Repo:{" "}
