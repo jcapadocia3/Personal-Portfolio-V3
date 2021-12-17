@@ -14,8 +14,8 @@ export default function Work() {
         <h1>Work</h1>
         <div class="workCont">
           <div class="workItem">
+          <p class="workTitle"><span class="projTitle">Project Title: v.i.e.w.s.</span></p>
           <img class="work1" src= {Work1} />
-            <p class="workTitle">Project Title: v.i.e.w.s.</p>
             <p>
               GitHub Repo:{" "}
               <a target="blank" href="https://github.com/jcapadocia3/v.i.e.w.s.">
@@ -28,9 +28,9 @@ export default function Work() {
             </p>
           </div>
 
-          <div class="workItem">
+          <div class="workItem1">
+          <p class="workTitle"><span class="projTitle">Project Title: Make My Day</span></p>
           <img class="work2" src= {Work2} />
-            <p class="workTitle">Project Title: Make My Day</p>
             <p>
               GitHub Repo:{" "}
               <a target="blank" href="https://github.com/nlaramee120/Make-My-Day">
@@ -45,9 +45,9 @@ export default function Work() {
             </p>
           </div>
 
-          <div class="workItem">
+          <div class="workItem1">
+          <p class="workTitle"><span class="projTitle">Project Title: Work Day Scheduler</span>></p>
           <img class="work3" src= {Work3} />
-            <p class="workTitle">Project Title: Work Day Scheduler</p>
             <p>
               GitHub Repo:{" "}
               <a target="blank" href="https://github.com/jcapadocia3/Work-Day-Scheduler">
@@ -62,9 +62,9 @@ export default function Work() {
             </p>
           </div>
 
-          <div class="workItem">
+          <div class="workItem1">
+          <p class="workTitle"><span class="projTitle">Project Title: Code Quiz</span></p>
           <img class="work4" src= {Work4} />
-            <p class="workTitle">Project Title: Code Quiz</p>
             <p>
               GitHub Repo:{" "}
               <a target="blank" href="https://github.com/jcapadocia3/Code-Quiz">Click here!</a>
@@ -75,18 +75,18 @@ export default function Work() {
             </p>
           </div>
 
-          <div class="workItem">
+          <div class="workItem1">
+          <p class="workTitle"><span class="projTitle">Project Title: E-Commerce Back End</span></p>
           <img class="work5" src= {Work5} />
-            <p class="workTitle">Project Title: E-Commerce Back End</p>
             <p>
               GitHub Repo:{" "}
               <a target="blank" href="https://github.com/jcapadocia3/E-Commerce-Back-End">Click here!</a>
             </p>
           </div>
 
-          <div class="workItem">
+          <div class="workItem1">
+          <p class="workTitle"><span class="projTitle">Project Title: Workout Tracker</span></p>
           <img class="work6" src= {Work6} />
-            <p class="workTitle">Project Title: Workout Tracker</p>
             <p>
               GitHub Repo:{" "}
               <a target="blank" href="https://github.com/jcapadocia3/Workout-Tracker">Click here!</a>

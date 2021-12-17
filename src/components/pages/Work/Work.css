@@ -37,3 +37,17 @@ h1 {
     width: 35rem;
     border: 2px solid black;
 }
+
+.projTitle {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.workItem {
+    border: 2px solid black;
+}
+
+.workItem1 {
+    border: 2px solid black;
+    margin-top: 50px;
+}
