@@ -1,5 +1,9 @@
 import React from "react";
 import "./Work.css";
+import Work1 from "./assets/views.png";
+import Work2 from "./assets/make-my-day1.png";
+import Work3 from "./assets/workdayscheduler1.png";
+import Work4 from "./assets/code-quiz.png";
 
 export default function Work() {
   return (
@@ -8,6 +12,7 @@ export default function Work() {
         <h1>Work</h1>
         <div class="workCont">
           <div class="workItem">
+          <img class="work1" src= {Work1} />
             <p class="workTitle">Project Title: v.i.e.w.s.</p>
             <p>
               GitHub Repo:{" "}
@@ -22,6 +27,7 @@ export default function Work() {
           </div>
 
           <div class="workItem">
+          <img class="work2" src= {Work2} />
             <p class="workTitle">Project Title: Make My Day</p>
             <p>
               GitHub Repo:{" "}
@@ -38,6 +44,7 @@ export default function Work() {
           </div>
 
           <div class="workItem">
+          <img class="work3" src= {Work3} />
             <p class="workTitle">Project Title: Work Day Scheduler</p>
             <p>
               GitHub Repo:{" "}
@@ -54,6 +61,7 @@ export default function Work() {
           </div>
 
           <div class="workItem">
+          <img class="work4" src= {Work4} />
             <p class="workTitle">Project Title: Code Quiz</p>
             <p>
               GitHub Repo:{" "}

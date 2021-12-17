@@ -7,3 +7,23 @@ h1 {
     text-align: center;
     margin: 0 250px 0 250px;
 }
+
+.work1 {
+    width: 35rem;
+    border: 2px solid black;
+}
+
+.work2 {
+    width: 35rem;
+    border: 2px solid black;
+}
+
+.work3 {
+    width: 35rem;
+    border: 2px solid black;
+}
+
+.work4 {
+    width: 35rem;
+    border: 2px solid black;
+}
