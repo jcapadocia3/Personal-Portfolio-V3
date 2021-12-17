@@ -4,6 +4,8 @@ import Work1 from "./assets/views.png";
 import Work2 from "./assets/make-my-day1.png";
 import Work3 from "./assets/workdayscheduler1.png";
 import Work4 from "./assets/code-quiz.png";
+import Work5 from "./assets/ecommerce.png";
+import Work6 from "./assets/workout-tracker.png";
 
 export default function Work() {
   return (
@@ -16,13 +18,13 @@ export default function Work() {
             <p class="workTitle">Project Title: v.i.e.w.s.</p>
             <p>
               GitHub Repo:{" "}
-              <a href="https://github.com/jcapadocia3/v.i.e.w.s.">
+              <a target="blank" href="https://github.com/jcapadocia3/v.i.e.w.s.">
                 Click here!
               </a>
             </p>
             <p>
               Deployed App:{" "}
-              <a href="https://peaked-project.herokuapp.com/">Click here!</a>
+              <a target="blank" href="https://peaked-project.herokuapp.com/">Click here!</a>
             </p>
           </div>
 
@@ -31,13 +33,13 @@ export default function Work() {
             <p class="workTitle">Project Title: Make My Day</p>
             <p>
               GitHub Repo:{" "}
-              <a href="https://github.com/nlaramee120/Make-My-Day">
+              <a target="blank" href="https://github.com/nlaramee120/Make-My-Day">
                 Click here!
               </a>
             </p>
             <p>
               Deployed App:{" "}
-              <a href="https://nlaramee120.github.io/Make-My-Day/">
+              <a target="blank" href="https://nlaramee120.github.io/Make-My-Day/">
                 Click here!
               </a>
             </p>
@@ -48,13 +50,13 @@ export default function Work() {
             <p class="workTitle">Project Title: Work Day Scheduler</p>
             <p>
               GitHub Repo:{" "}
-              <a href="https://github.com/jcapadocia3/Work-Day-Scheduler">
+              <a target="blank" href="https://github.com/jcapadocia3/Work-Day-Scheduler">
                 Click here!
               </a>
             </p>
             <p>
               Deployed App:{" "}
-              <a href="https://jcapadocia3.github.io/Work-Day-Scheduler/">
+              <a target="blank" href="https://jcapadocia3.github.io/Work-Day-Scheduler/">
                 Click here!
               </a>
             </p>
@@ -65,11 +67,33 @@ export default function Work() {
             <p class="workTitle">Project Title: Code Quiz</p>
             <p>
               GitHub Repo:{" "}
-              <a href="https://github.com/jcapadocia3/Code-Quiz">Click here!</a>
+              <a target="blank" href="https://github.com/jcapadocia3/Code-Quiz">Click here!</a>
             </p>
             <p>
               Deployed App:{" "}
-              <a href="https://jcapadocia3.github.io/Code-Quiz/">Click here!</a>
+              <a target="blank" href="https://jcapadocia3.github.io/Code-Quiz/">Click here!</a>
+            </p>
+          </div>
+
+          <div class="workItem">
+          <img class="work5" src= {Work5} />
+            <p class="workTitle">Project Title: E-Commerce Back End</p>
+            <p>
+              GitHub Repo:{" "}
+              <a target="blank" href="https://github.com/jcapadocia3/E-Commerce-Back-End">Click here!</a>
+            </p>
+          </div>
+
+          <div class="workItem">
+          <img class="work6" src= {Work6} />
+            <p class="workTitle">Project Title: Workout Tracker</p>
+            <p>
+              GitHub Repo:{" "}
+              <a target="blank" href="https://github.com/jcapadocia3/Workout-Tracker">Click here!</a>
+            </p>
+            <p>
+              Deployed App:{" "}
+              <a target="blank" href="https://workout-tracker-jcnu.herokuapp.com/">Click here!</a>
             </p>
           </div>
         </div>
