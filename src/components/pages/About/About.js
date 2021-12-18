@@ -16,11 +16,7 @@ export default function About() {
           follow your dreams." While I understand that this field of work is not
           easy, it's what makes me happy, and each class I attend only proves
           this further for myself. With an extensive professional background in
-          sales and servicing (see{" "}
-          <a id="fastforward" href="./assets/images/Updated Resume.pdf">
-            Resume
-          </a>{" "}
-          linked above), it excites me to use this experience in this field of
+          sales and servicing (see Resume linked above), it excites me to use this experience in this field of
           work to create websites and apps alongside with clients and to help
           make, what starts as a simple vision, a reality. As my time in this
           class stands, I currently am well versed in the skills below: - HTML -

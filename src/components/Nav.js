@@ -1,5 +1,6 @@
 import React from "react";
 import "./Portfolio.css";
+import Resume from "./NEW-Resume.pdf"
 
 const styles = {
   card: {
@@ -62,7 +63,7 @@ function Nav({ currentPage, handlePageChange }) {
           </a>
         </p>
         <p className="nav-item nav-link">
-          <a target="blank" href="./NEW-Resume.pdf">
+          <a target="blank" href={Resume}>
             Resume
           </a>
         </p>
