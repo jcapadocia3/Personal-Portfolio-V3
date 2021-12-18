@@ -27,13 +27,15 @@ This project represents a portfolio webpage that a prospect may provide a compan
 
 ## Functionality
 
-- The navigation portion at the left of the webpage is fully functional with links that will "jump" the user to the appropriate section of the personal portfolio. The navigation will also contain a drop-down menu for a user to have access to the prospect's contact information and links to their LinkedIn/GitHub profile. It will also contain a link that will redirect the user to a completed Resume, in PDF format, for viewing/printing as needed.
+- The navigation portion at the top of the webpage is fully functional with links that will "jump" the user to the appropriate section of the personal portfolio. It will also contain a link that will redirect the user to a completed Resume, in PDF format, for viewing/printing as needed.
 
 - The project contains an About Me section where the prospect can provide information about themselves and their qualifications for the role applied for.
 
-- The project contains a Work section, complete with images and links, to redirect the user to projects or applications he/she has built/coded themselves that can be used as references for eligibility of the role.
+- The project contains a Portfolio section, complete with images and links, to redirect the user to projects or applications he/she has built/coded themselves that can be used as references for eligibility of the role.
 
-- The footer portion of the project contains the Contact Me section which includes the prospect's phone number, email address, and working links to their public LinkedIn and Github pages.
+- The project contains an Contact section where a visitor can submit their personal information including a personal message to the prospect.
+
+- The footer portion of the project contains the Contact Me section which includes the prospect's phone number, email address, and working links to their public LinkedIn, Github, and Twitter page.
 
 ## License
 - MIT License
