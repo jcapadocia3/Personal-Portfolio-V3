@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Personal-Portfolio-V3/static/css/main.d24637b4.css",
-    "main.js": "/Personal-Portfolio-V3/static/js/main.05a7926a.js",
+    "main.css": "/Personal-Portfolio-V3/static/css/main.fbd04066.css",
+    "main.js": "/Personal-Portfolio-V3/static/js/main.ce596ed2.js",
     "static/media/views.png": "/Personal-Portfolio-V3/static/media/views.2ac920a7f6457e9dae08.png",
     "static/media/make-my-day1.png": "/Personal-Portfolio-V3/static/media/make-my-day1.3159d86a9f46d4ef69fc.png",
     "static/media/IMG_8160c.jpg": "/Personal-Portfolio-V3/static/media/IMG_8160c.f4b2c2a414b7f0c62398.jpg",
@@ -11,11 +11,11 @@
     "static/media/NEW-Resume.pdf": "/Personal-Portfolio-V3/static/media/NEW-Resume.6530f8e8bb6f7c95fcf6.pdf",
     "static/media/code-quiz.png": "/Personal-Portfolio-V3/static/media/code-quiz.961226f920dd746a1d9d.png",
     "index.html": "/Personal-Portfolio-V3/index.html",
-    "main.d24637b4.css.map": "/Personal-Portfolio-V3/static/css/main.d24637b4.css.map",
-    "main.05a7926a.js.map": "/Personal-Portfolio-V3/static/js/main.05a7926a.js.map"
+    "main.fbd04066.css.map": "/Personal-Portfolio-V3/static/css/main.fbd04066.css.map",
+    "main.ce596ed2.js.map": "/Personal-Portfolio-V3/static/js/main.ce596ed2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d24637b4.css",
-    "static/js/main.05a7926a.js"
+    "static/css/main.fbd04066.css",
+    "static/js/main.ce596ed2.js"
   ]
 }
