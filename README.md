@@ -18,7 +18,7 @@ https://jcapadocia3.github.io/Personal-Portfolio-V3/
 4. [Questions](#Questions)
 
 ## Description
-This project represents a portfolio webpage that a prospect may provide a company in a job application for a Web Delevoper position. It shows the prospect's ability to create a fully funtional webpage using HTML and CSS (complete with working links) and can portray that they are capable of completing any job requirement the position would task them to do. This webpage is also used to provide the company with a bit of information regarding the prospect and how he/she may be a good fit for the company.
+This project represents a portfolio webpage that a prospect may provide a company in a job application for a Web Delevoper position. It shows the prospect's ability to create a fully funtional webpage using React and can portray that they are capable of completing any job requirement the position would task them to do. This webpage is also used to provide the company with a bit of information regarding the prospect and how he/she may be a good fit for the company.
 
 ## Final Webpage Image
 
